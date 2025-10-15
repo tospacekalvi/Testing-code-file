@@ -1,0 +1,9 @@
+RC522 RFID Reader Module	Raspberry Pi Pico
+VCC                    	3.3V
+RST                   	GP0
+GND                    	GND
+IRQ                    	Not connected
+MISO                   	GP4
+MOSI	                  GP3
+SCK	                    GP2
+SDA	                    GP1
